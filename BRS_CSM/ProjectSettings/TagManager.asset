@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Camera1
+  - Camera2
+  - Gun
+  - player
+  - Unknown
   layers:
   - Default
   - TransparentFX
